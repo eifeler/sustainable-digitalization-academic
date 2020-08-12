@@ -5,6 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
+font_size = "M"
+
 title = "Welcome to **Sustainable-Digitalization.com**!"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
@@ -49,9 +51,9 @@ hero_media = "sustainable-world.png"
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
-
 +++
-Musings and resources that adress two of the most important topics nowadays -<br>
+
+**Musings and resources that address two of the most important topics nowadays -**  
 in my humble but accurate opinion anyway ;-)
 
 - Sustainability
