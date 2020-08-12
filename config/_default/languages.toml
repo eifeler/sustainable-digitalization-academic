@@ -5,7 +5,25 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+
+
+#[de]
+#  languageCode = "de"
+#  contentDir = "content/de"
+#  title = "Nachhaltige Digitalisierung"
+#  [de.params]
+#    description = "Nachhaltigkeit und Digitalisierung - beides muss zusammen angegangen werden, um den größten Nutzen aus der Digitalen Transformation zu ziehen"
+#  [[de.menu.main]]
+#    name = "Startseite"
+#    url = "#about"
+#    weight = 10
+#  [[de.menu.main]]
+#    name = "Blog"
+#    url = "/post"
+#    weight = 20
+
+
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
